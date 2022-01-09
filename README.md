@@ -1,1 +1,1 @@
-# Week3_BC_Javascript_Robot-Gladiators
+# BC_Week3_Javascript_Robot-Gladiators
